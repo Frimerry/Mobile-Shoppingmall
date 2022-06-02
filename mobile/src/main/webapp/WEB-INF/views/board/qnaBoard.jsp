@@ -79,7 +79,7 @@
 									</c:when>
 									<c:otherwise>
 										<!-- 그 외 접근은 클릭불가 -->
-										<td><img src="/css/icon/lock_icon.png" width="15px">
+										<td style="text-align: left"><img src="/css/icon/lock_icon.png" width="15px">
 											<c:out value="${board.title}[${board.replyCnt}]" /></td>
 									</c:otherwise>
 								</c:choose>
