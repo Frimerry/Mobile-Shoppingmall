@@ -1,7 +1,7 @@
 # Mobile-Shoppingmall 모바일 기기 쇼핑몰
 Spring boot/Tomcat 9.0/Oracle 11g
 
-- 추가 예정 -
+-- 추가 예정 --
 - 상품 재고관리
 - 소셜 계정 로그인
 - 상품 검색 기능
